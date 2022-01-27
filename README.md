@@ -1,6 +1,6 @@
 # NEOVIM
 
-![neovim image](./nvim_config.png)
+![neovim image](./.nvim_config.png)
 
 This is my configuration of [Neovim](https://neovim.io/). Why I use Neovim? Well, It is the very precise clone of vim but supports configuration in Lua, Plugins written 
 in lua, Lua is much faster than Viml, and It is a less of a pain to learn. I am still working on my configuration of neovim. It might take time. I will configure 
