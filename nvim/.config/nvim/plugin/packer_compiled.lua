@@ -99,11 +99,6 @@ _G.packer_plugins = {
     path = "/home/aqua/.local/share/nvim/site/pack/packer/start/dracula.nvim",
     url = "https://github.com/Mofiqul/dracula.nvim"
   },
-  ["friendly-snippets"] = {
-    loaded = true,
-    path = "/home/aqua/.local/share/nvim/site/pack/packer/start/friendly-snippets",
-    url = "https://github.com/rafamadriz/friendly-snippets"
-  },
   ["lualine.nvim"] = {
     loaded = true,
     path = "/home/aqua/.local/share/nvim/site/pack/packer/start/lualine.nvim",
