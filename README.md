@@ -23,4 +23,4 @@ git clone https://github.com/dcodecraftz/neovim.git
 stow */ -t $HOME
 ```
 ## Contributing. 
-You can put out pull requests right now, but I will probaly only pull if You changes are promising. THANKS! 
+You can put out pull requests right now, but I will probaly only pull if Your changes are promising. THANKS! 
