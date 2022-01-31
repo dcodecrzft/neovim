@@ -7,9 +7,6 @@ in lua, thus is more scalable. Indeed, Lua is faster than Viml, and It is a less
 this build with nvim-cmp, Lsp, Autocompletion, Treesitter, possible bufferline, telescope(instead of fuzzyfinder), autopairs, lualine, and more to be added. I can 
 guarantee you that this build will not be bloated. 
 
-## Updates
--- I have successfuly setup this build with completion. Using nvim-cmp. 
-
 ## Downloading and Installing. 
 
 1. You would have to install GNU `stow`, and `git` before proceeding. 
