@@ -15,7 +15,7 @@ guarantee you that this build will not be bloated.
 1. You would have to install GNU `stow`, and `git` before proceeding. 
 2. Downloading the repository with the help of [git](https://git-scm.com/).   
 ```bash
-git clone git@github.com:dcodecraftz/neovim.git
+git clone https://github.com/dcodecraftz/neovim.git
 ```
 3. Installing. 
 [Stow](https://www.gnu.org/software/stow/) will symlink the configuration to the right location. 
