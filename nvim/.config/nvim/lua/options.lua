@@ -1,4 +1,5 @@
 vim.opt.rnu = true
+vim.opt.nu = true
 vim.opt.tgc = true
 vim.opt.cursorline = true
 vim.o.backup = false
@@ -43,7 +44,7 @@ vim.g.dracula_colors = {
 }
 
 -- show the '~' characters after the end of buffers
-vim.g.dracula_show_end_of_buffer = true
+vim.g.dracula_show_end_of_buffer = false
 -- use transparent background
 vim.g.dracula_transparent_bg = false
 -- set custom lualine background color
