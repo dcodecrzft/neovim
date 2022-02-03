@@ -9,8 +9,8 @@ guarantee you that this build will not be bloated.
 
 ## Downloading and Installing. 
 
-1. You would have to install GNU `stow`, and `git` before proceeding. 
-2. Downloading the repository with the help of [git](https://git-scm.com/).   
+1. You would have to install GNU `stow`, and `git` before proceeding. Additionally, You can install xsel to copy and paste into and outside of neovim.
+2. Downloading the repository through [git](https://git-scm.com/).   
 ```bash
 git clone https://github.com/dcodecraftz/neovim.git
 ```
@@ -19,5 +19,3 @@ git clone https://github.com/dcodecraftz/neovim.git
 ```bash
 stow */ -t $HOME
 ```
-## Contributing. 
-You can put out pull requests right now, but I will probaly only pull if Your changes are promising. THANKS! 

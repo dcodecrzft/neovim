@@ -38,6 +38,9 @@ return require('packer').startup(function(use)
     use 'saadparwaiz1/cmp_luasnip' -- Snippet completions. 
     -- Snippets.
     use 'L3MON4D3/LuaSnip' -- Snippet engine. 
+    -- LSP 
+    use 'neovim/nvim-lspconfig'
+
   if packer_bootstrap then
     require('packer').sync()
   end

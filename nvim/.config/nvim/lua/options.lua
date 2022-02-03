@@ -11,8 +11,8 @@ vim.bo.softtabstop = 4
 vim.o.errorbells = false
 vim.opt.scrolloff = 8
 vim.opt.sidescrolloff =  8
+vim.opt.clipboard = "unnamedplus"
 vim.cmd [[set iskeyword+=-]] --vim.cmd [[ foo ]] passes a viml string.
-vim.cmd [[set clipboard+=unnamedplus]]
 
 
 -- Colorscheme. 
