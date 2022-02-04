@@ -2,11 +2,10 @@
 
 ![neovim image](./.vim.pic.png)
 
-This is my configuration of [Neovim](https://neovim.io/). Why I use Neovim? Well, It is a fork of vim but supports configuration in Lua, Plugins written 
+This is my configuration of [Neovim](https://neovim.io/). Why I use Neovim? It is a fork of [vim](https://www.vim.org/) but supports configuration in Lua, Plugins written 
 in lua, thus is more scalable. Indeed, Lua is faster than Viml, and It is a less of a pain to learn.I am still working on my configuration of neovim. It might take time. I will configure 
 this build with nvim-cmp, Lsp, Autocompletion, Treesitter, possibly bufferline, telescope, autopairs, lualine, Null.ls,  and more to be added. I can 
 guarantee you that this build will not be bloated. 
-
 
 ## Plugins that come installed with my build: 
 - Dracula.nvim
