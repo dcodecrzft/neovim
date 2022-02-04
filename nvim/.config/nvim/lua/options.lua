@@ -12,6 +12,9 @@ vim.o.errorbells = false
 vim.opt.scrolloff = 8
 vim.opt.sidescrolloff =  8
 vim.opt.clipboard = "unnamedplus"
+vim.opt.hlsearch = true
+vim.opt.ignorecase = true
+vim.opt.smartcase = true
 vim.cmd [[set iskeyword+=-]] --vim.cmd [[ foo ]] passes a viml string.
 
 

@@ -99,6 +99,11 @@ _G.packer_plugins = {
     path = "/home/quan/.local/share/nvim/site/pack/packer/start/dracula.nvim",
     url = "https://github.com/Mofiqul/dracula.nvim"
   },
+  ["feline.nvim"] = {
+    loaded = true,
+    path = "/home/quan/.local/share/nvim/site/pack/packer/start/feline.nvim",
+    url = "https://github.com/feline-nvim/feline.nvim"
+  },
   ["lualine.nvim"] = {
     loaded = true,
     path = "/home/quan/.local/share/nvim/site/pack/packer/start/lualine.nvim",
