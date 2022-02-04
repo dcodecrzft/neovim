@@ -2,7 +2,7 @@
 
 ![neovim image](./.vim.pic.png)
 
-This is my configuration of [Neovim](https://neovim.io/). Why I use Neovim? It is a fork of [vim](https://www.vim.org/) but supports configuration in Lua, Plugins written 
+This is my configuration of [Neovim](https://neovim.io/). Why I use Neovim? It is a fork of [vim](https://www.vim.org/) but supports configuration in [Lua](https://www.lua.org/), Plugins written 
 in lua, thus is more scalable. Indeed, Lua is faster than Viml, and It is a less of a pain to learn.I am still working on my configuration of neovim. It might take time. I will configure 
 this build with nvim-cmp, Lsp, Autocompletion, Treesitter, possibly bufferline, telescope, autopairs, lualine, Null.ls,  and more to be added. I can 
 guarantee you that this build will not be bloated. 
@@ -32,3 +32,9 @@ git clone https://github.com/dcodecraftz/neovim.git
 ```bash
 stow */ -t $HOME
 ```
+
+<div align="center" id="madewithlua">
+	
+[![Lua](https://img.shields.io/badge/Made%20with%20Lua-blue.svg?style=for-the-badge&logo=lua)](#madewithlua)
+	
+</div>
