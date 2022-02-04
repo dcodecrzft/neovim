@@ -25,7 +25,7 @@ guarantee you that this build will not be bloated.
 1. You would have to install GNU `stow`, and `git` before proceeding. Additionally, You can install xsel to copy and paste into and outside of neovim.
 2. Downloading the repository through [git](https://git-scm.com/).   
 ```bash
-git clone https://github.com/dcodecraftz/neovim.git
+git clone https://github.com/dcodecrzft/neovim.git
 ```
 3. Installing. 
 [Stow](https://www.gnu.org/software/stow/) will symlink the configuration to the right location. 
