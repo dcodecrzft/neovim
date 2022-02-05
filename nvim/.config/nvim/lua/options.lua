@@ -20,7 +20,6 @@ vim.cmd [[set iskeyword+=-]] --vim.cmd [[ foo ]] passes a viml string.
 
 -- Colorscheme. 
 vim.cmd[[colorscheme dracula]]
--- customize dracula color palette
 vim.g.dracula_colors = {
   bg = "#282A36",
   fg = "#F8F8F2",

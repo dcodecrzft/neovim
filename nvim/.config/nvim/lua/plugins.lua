@@ -40,6 +40,7 @@ return require('packer').startup(function(use)
     use 'L3MON4D3/LuaSnip' -- Snippet engine. 
     -- LSP 
     use 'neovim/nvim-lspconfig'
+    use 'norcalli/nvim-colorizer.lua'
 
   if packer_bootstrap then
     require('packer').sync()

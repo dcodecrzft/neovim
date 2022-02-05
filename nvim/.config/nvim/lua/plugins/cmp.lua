@@ -17,7 +17,7 @@ end
 
 --   פּ ﯟ   some other good icons
 local kind_icons = {
-  Text = "",
+  Text = "",
   Method = "m",
   Function = "",
   Constructor = "",
@@ -47,7 +47,7 @@ local kind_icons = {
 cmp.setup {
   snippet = {
     expand = function(args)
-      luasnip.lsp_expand(args.body) -- For `luasnip` users.
+      luasnip.lsp_expand(args.body) 
     end,
   },
   mapping = {
@@ -106,7 +106,7 @@ cmp.setup {
       })[entry.source.name]
       return vim_item
     end,
-  },
+  }, 
   sources = {
     { name = "luasnip" },
     { name = "buffer" },

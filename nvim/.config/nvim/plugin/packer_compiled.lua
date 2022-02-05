@@ -99,11 +99,6 @@ _G.packer_plugins = {
     path = "/home/quan/.local/share/nvim/site/pack/packer/start/dracula.nvim",
     url = "https://github.com/Mofiqul/dracula.nvim"
   },
-  ["feline.nvim"] = {
-    loaded = true,
-    path = "/home/quan/.local/share/nvim/site/pack/packer/start/feline.nvim",
-    url = "https://github.com/feline-nvim/feline.nvim"
-  },
   ["lualine.nvim"] = {
     loaded = true,
     path = "/home/quan/.local/share/nvim/site/pack/packer/start/lualine.nvim",
@@ -113,6 +108,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/quan/.local/share/nvim/site/pack/packer/start/nvim-cmp",
     url = "https://github.com/hrsh7th/nvim-cmp"
+  },
+  ["nvim-colorizer.lua"] = {
+    loaded = true,
+    path = "/home/quan/.local/share/nvim/site/pack/packer/start/nvim-colorizer.lua",
+    url = "https://github.com/norcalli/nvim-colorizer.lua"
   },
   ["nvim-lspconfig"] = {
     loaded = true,
